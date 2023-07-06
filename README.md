@@ -1,2 +1,4 @@
 # Call-Centre-Reports
-Call Centre Data Set and I used to analysis the data and manipulating to Dashboard. Extract data from Excel and Data Cleaning, Null and Black space removed and load the data and used Measure and Add Column then made data visualization and Dashboard. By using Power BI. 
+Call Centre DataSet.Create a power BI dashboard for analyzing the call centre performance of a telecom client. They needed transparency and insight into their call centre data. For example: overall customer satisfaction, total number of calls answered and abandoned, speed of answer, length of calls, etc. Accordingly, the dashboard was created reflecting all the relevant Key Performance Indicators (KPIs) and metrics.
+First Step Importing data from Data source such as Excel, SQL and Transforn the data and started cleaning such as Null,Black Space removed then did step by step once completed then load the data and started putting logic such as measure, Add coloumn, concate, count, division, date and time etc.
+After that coming to Dashboard , Used Card, Multi-row card, Slicer, Area Chart, Stacked coloumn, Stacked bar chart, Pie chart, Donut Chart, feedback rating etc.
